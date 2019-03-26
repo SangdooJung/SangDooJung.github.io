@@ -1,15 +1,18 @@
 h1{
-    
+   font-family: 'Laila', serif;
+
     color:darkgrey
     
 }
 
-
 body {
-    background-color:whitesmoke
+    background-color:gold
     }
 
-
+#home {
+    
+font-family: 'Raleway', sans-serif;
+}
 .image{
     
   border: 3px solid darkgrey;
@@ -47,7 +50,7 @@ nav ul{
 
 #about {
     
-    
+    font-family: 'Raleway', sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 400px;
